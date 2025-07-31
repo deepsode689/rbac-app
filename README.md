@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+https://github.com/deepsode689/rbac-app/blob/3ab40448c32b397879cc26de814f563fa5cba39b/videos
 ![image alt](https://github.com/deepsode689/rbac-app/blob/cc759dce3191c7cb345dce981269f25f16ebf9d8/rbac.png)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
