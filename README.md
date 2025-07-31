@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+![image alt](https://github.com/deepsode689/rbac-app/blob/cc759dce3191c7cb345dce981269f25f16ebf9d8/rbac.png)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
